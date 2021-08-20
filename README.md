@@ -2,6 +2,6 @@
 
 ## Code utilized in the research paper for COVID19 Superspreading event
 
-### "Temporal Changes in the Risk of Superspreading Events of Coronavirus Disease 2019"
-### https://academic.oup.com/ofid/article/8/7/ofab350/6311755
+"Temporal Changes in the Risk of Superspreading Events of Coronavirus Disease 2019"
+https://academic.oup.com/ofid/article/8/7/ofab350/6311755
 
